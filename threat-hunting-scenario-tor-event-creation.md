@@ -71,4 +71,24 @@ DeviceNetworkEvents
 DeviceFileEvents
 | where FileName contains "shopping-list.txt"
 ```
+## Created By:
+- **Author Name**: Shane Wilson
+- **Author Contact**: https://www.linkedin.com/in/shane-wilson/
+- **Date**: March 15, 2025
 
+## Validated By:
+- **Reviewer Name**: 
+- **Reviewer Contact**: 
+- **Validation Date**: 
+
+---
+
+## Additional Notes:
+- **None**
+
+---
+
+## Revision History:
+| **Version** | **Changes**                   | **Date**         | **Modified By**   |
+|-------------|-------------------------------|------------------|-------------------|
+| 1.0         | Initial draft                  | `September  6, 2024`  | `Shane  Wilson`   
