@@ -171,4 +171,5 @@ Additional Tor browser files were created on the desktop on March 15, 2025, conf
 ## Response Taken
 
 TOR usage was confirmed on the endpoint threat-hunt-lab. The device was isolated and the user's direct manager was notified.
+
 ---
